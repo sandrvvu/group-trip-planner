@@ -1,0 +1,17 @@
+node_modules
+
+dist
+.next
+out
+*.tsbuildinfo
+
+.env
+.env.local
+.env.*.local
+
+.turbo
+
+.husky/_
+
+.DS_Store
+*.log

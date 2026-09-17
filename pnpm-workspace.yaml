@@ -1,0 +1,14 @@
+packages:
+  - "apps/*"
+  - "packages/*"
+
+catalog:
+  typescript: 6.0.3
+  "@types/node": ^24.13.3
+  eslint: ^9.39.5
+
+allowBuilds:
+  bcrypt: true
+  unrs-resolver: true
+  sharp: true
+  "@tailwindcss/oxide": true
